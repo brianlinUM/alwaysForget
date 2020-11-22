@@ -1,0 +1,2 @@
+whois <address>	// Look up for who owns the address (i.e. www.google.com)
+
