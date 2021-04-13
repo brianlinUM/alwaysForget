@@ -8,3 +8,7 @@ cargo build // compiles project
 cargo build --release // compiles with optimizations
 cargo run // compiles (if modified) and executes project
 cargo check // check if project is compilable without actually compiling it.
+-------------------------------------------------------------------------------
+NPM stuff
+
+npm install // installs node modules listed in package.json
